@@ -1,2 +1,1 @@
-# git_test
-# git_test
+This is Miguel Josué's first git project!
